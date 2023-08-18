@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/longest-common-prefix/
 func longestCommonPrefix(strs []string) string {
 	if len(strs) == 0 {
 		return ""
